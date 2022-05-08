@@ -23,7 +23,7 @@ timezone: 'Asia/Makassar'
 
 title: stueotue                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Writeup collection   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -47,7 +47,7 @@ social:
     - https://twitter.com/stueotue      # change to your twitter homepage
     - https://github.com/stueotue       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://web.facebook.com/richard.telleng
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
@@ -56,7 +56,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: 'G-MJ04H328ML'                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://avatars.githubusercontent.com/u/21061290?v=4'
+avatar: 'https://s.gravatar.com/avatar/21fb188c74c4d0f68475d1f630661e29?s=200'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
